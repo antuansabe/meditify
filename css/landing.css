@@ -1,0 +1,10 @@
+nav {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: peachpuff;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
